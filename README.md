@@ -1,4 +1,4 @@
-<h3>I’m a Computer Engineering graduate working toward a career in software engineering, with hands-on experience building simple projects using Java, Angular, and Spring Boot. I focus on writing clean, understandable code and learning best practices through continuous practice and project development.</h3>
+<h3>I’m a Computer Engineering graduate working toward a career in software engineering, with hands-on experience building simple projects using Java, Angular, and Spring Boot. I enjoy learning through hands-on projects and continuously improving my skills in software development.</h3>
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
