@@ -1,7 +1,7 @@
 <h3>I’m a Computer Engineering graduate working toward a career in software engineering, with hands-on experience building simple projects using Java, Angular, and Spring Boot. I enjoy learning through hands-on projects and continuously improving my skills in software development.</h3>
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,typescript,angular,html,css,javascript,bootstrap,mysql,git,github,postman,c++,arduino&theme=light)](https://skillicons.dev)
 
 <h3 align="left">Language and Tools</h3>
 <p align="left">
