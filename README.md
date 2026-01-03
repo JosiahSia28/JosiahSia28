@@ -1,7 +1,7 @@
 <h3>I’m a Computer Engineering graduate working toward a career in software engineering, with hands-on experience building simple projects using Java, Angular, and Spring Boot. I enjoy learning through hands-on projects and continuously improving my skills in software development.</h3>
 
 <h3 align="left">Language and Tools</h3>
-[![My Skills](https://skillicons.dev/icons?i=java,spring,typescript,angular&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,typescript,angular&theme=light)](https://skillicons.dev)]
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32" height="32"/>
