@@ -1,4 +1,4 @@
-<h3>I’m a Computer Engineering graduate working toward a career in software engineering, with hands-on experience building simple projects using Java, Angular, and Spring Boot. I enjoy learning through hands-on projects and continuously improving my skills in software development.</h3>
+<h3>I’m a Computer Engineering graduate working toward a career in software engineering, with hands-on experience building simple projects using Java, Spring Boot, and Angular. I enjoy learning through hands-on projects and continuously improving my skills in software development.</h3>
 
 <h2>💼Lanugage and Tools</h2>
 
