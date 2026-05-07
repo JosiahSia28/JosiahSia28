@@ -2,7 +2,7 @@
 
 <h2>💼Lanugage and Tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,hibernate,idea,typescript,angular,html,css,javascript,bootstrap,vscode,mysql,git,github,postman,cpp,arduino,bash&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,hibernate,idea,typescript,angular,html,css,javascript,bootstrap,vscode,mysql,git,github,postman,docker,cpp,arduino,bash&theme=light)](https://skillicons.dev)
 
 
 # 📊 GitHub Stats:
