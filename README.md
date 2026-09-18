@@ -1,11 +1,13 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007acc,100:00dfa2&height=200&section=header&text=Josiah%20Siachua&fontSize=42&fontAlignY=38&desc=Full-Stack%20Software%20Developer&descAlignY=60&descAlign=50&fontColor=ffffff" width="100%"/>
+  <h1>Josiah Siachua</h1>
+  <p>
+    <strong>Full-Stack Software Developer</strong><br/>
+    <code>Java</code> &bull; <code>Spring Boot</code> &bull; <code>Angular</code> &bull; <code>MySQL</code> &bull; <code>Docker</code> &bull; <code>REST APIs</code>
+  </p>
 
-  <!-- Dynamic Typing Intro -->
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00DFA2&center=true&vCenter=true&width=620&lines=Full-Stack+Software+Developer;Java+%2B+Spring+Boot+%2B+Angular;Building+Scalable+Web+Applications;Relational+Databases+%26+REST+APIs">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00DFA2&center=true&vCenter=true&width=620&lines=Full-Stack+Software+Developer;Java+%2B+Spring+Boot+%2B+Angular;Building+Scalable+Web+Applications;Relational+Databases+%26+REST+APIs" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=560&lines=Full-Stack+Software+Developer;Java+%2B+Spring+Boot+%2B+Angular;Building+Production-Ready+Web+Applications;Relational+Databases+%26+RESTful+APIs">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=560&lines=Full-Stack+Software+Developer;Java+%2B+Spring+Boot+%2B+Angular;Building+Production-Ready+Web+Applications;Relational+Databases+%26+RESTful+APIs" alt="Typing SVG" />
   </a>
 
 </div>
@@ -80,15 +82,10 @@ I am a **Software Engineer** specializing in full-stack web application developm
 <div align="center">
 
   <a href="mailto:josiahsiachua@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-josiahsiachua%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-josiahsiachua%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/JosiahSia28" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-JosiahSia28-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-JosiahSia28-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
-
-  <br/><br/>
-
-  <!-- Visitor Counter -->
-  <img src="https://visitcount.itsvg.in/api?id=JosiahSia28&icon=0&color=0" alt="Visitor Count" />
 
 </div>
