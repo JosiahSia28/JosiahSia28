@@ -78,7 +78,7 @@ I am a **Software Engineer** specializing in full-stack web application developm
   <br/><br/>
 
   <!-- Top Languages -->
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JosiahSia28&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JosiahSia28&layout=compact&card_width=800&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
