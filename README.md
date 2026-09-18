@@ -15,7 +15,7 @@
 I am a **Software Engineer** specializing in full-stack web application development, with a focus on building robust backend architectures, scalable RESTful APIs, and responsive user interfaces.
 
 - 💻 **Core Stack:** Developing end-to-end web applications with **Java, Spring Boot**, and **Angular**.
-- 🚀 **Projects & Solutions:** Engineered and deployed the **TK Sports Center Platform**—a custom management web system automating reservations, payment receipts, expense logging, and sales analytics.
+- 🚀 **Projects & Solutions:** Engineered and deployed full-stack web platforms including **Courtside Cebu** and **TK Sport Center**—automating court reservations, customer billing, expense tracking, and financial analytics.
 - 🗄️ **Database & Architecture:** Designing relational databases with **MySQL**, optimizing queries, and implementing clean code principles.
 - 🌱 **Continuous Learning:** Exploring microservices architectures, Docker containerization, and modern CI/CD deployment pipelines.
 
@@ -32,23 +32,34 @@ I am a **Software Engineer** specializing in full-stack web application developm
 [![Frontend Skills](https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap&theme=dark)](https://skillicons.dev)
 
 #### 🧰 Tools & Platforms
-[![Tools](https://skillicons.dev/icons?i=git,github,postman,idea,vscode,arduino&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,postman,idea,vscode,arduino,gcp,cloudflare&theme=dark)](https://skillicons.dev)
 
 </div>
 
 ---
 
-### 🌟 Featured Project Spotlight
+### 🌟 Featured Projects
 
 <table>
   <tr>
     <td width="100%">
-      <h3>🏸 TK Sports Center Management Platform</h3>
-      <p><em>A custom full-stack management system engineered to automate booking operations, prevent scheduling conflicts, and track financial performance.</em></p>
+      <h3>🏸 Courtside Cebu — Management & Court Booking Platform</h3>
+      <p><em>A custom full-stack web application engineered to automate court bookings, prevent scheduling conflicts, and streamline financial operations.</em></p>
       <ul>
         <li><b>Problem Solved:</b> Replaced double-booked paper logs and manual spreadsheets with real-time court availability and instant reservation management.</li>
-        <li><b>Key Capabilities:</b> Automated customer payment receipt generation, daily expense logging, and monthly revenue analytics.</li>
-        <li><b>Tech Stack:</b> <code>Java</code> • <code>Spring Boot</code> • <code>Angular</code> • <code>MySQL</code> • <code>REST APIs</code> • <code>Maven</code></li>
+        <li><b>Key Capabilities:</b> Automated customer payment receipt generation, real-time daily expense logging, and revenue analytics.</li>
+        <li><b>Tech Stack:</b> <code>Java</code> • <code>Spring Boot</code> • <code>Angular</code> • <code>MySQL</code> • <code>REST APIs</code> • <code>Cloudflare Storage</code></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%">
+      <h3>🏟️ TK Sport Center — Facility Management System</h3>
+      <p><em>A full-stack sports facility platform designed to manage court schedules, venue operations, and financial transactions.</em></p>
+      <ul>
+        <li><b>Problem Solved:</b> Automated venue utilization, eliminated manual calculation errors, and centralized multi-court booking records.</li>
+        <li><b>Key Capabilities:</b> Real-time scheduling, transaction records, inventory tracking, and daily financial reporting.</li>
+        <li><b>Tech Stack:</b> <code>Java</code> • <code>Spring Boot</code> • <code>Angular</code> • <code>MySQL</code> • <code>Docker</code> • <code>Google Cloud (GCP)</code></li>
       </ul>
     </td>
   </tr>
