@@ -1,6 +1,14 @@
 <div align="center">
 
-  <img src="terminal.svg" width="100%" alt="Josiah Siachua — Terminal" />
+  <h1>Josiah Siachua</h1>
+  <p>
+    <strong>Full-Stack Software Developer</strong><br/>
+    <code>Java</code> &bull; <code>Spring Boot</code> &bull; <code>Angular</code> &bull; <code>MySQL</code> &bull; <code>Docker</code> &bull; <code>REST APIs</code>
+  </p>
+
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=620&lines=Full-Stack+Software+Developer;Java+%2B+Spring+Boot+%2B+Angular;Building+Production-Ready+Web+Applications;Relational+Databases+%26+RESTful+APIs">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=620&lines=Full-Stack+Software+Developer;Java+%2B+Spring+Boot+%2B+Angular;Building+Production-Ready+Web+Applications;Relational+Databases+%26+RESTful+APIs" alt="Typing SVG" />
+  </a>
 
 </div>
 
