@@ -1,7 +1,15 @@
 <div align="center">
 
-  <img src="terminal.svg" width="100%" alt="Josiah Siachua — Terminal" />
+```bash
+josiah@developer:~$ whoami
+Josiah Siachua [Full-Stack Software Developer]
 
+josiah@developer:~$ cat stack.txt
+Java • Spring Boot • Angular • MySQL • Docker • REST APIs
+
+josiah@developer:~$ ./current-focus.sh
+🚀 Building production-ready web applications & clean architectures...
+```
 </div>
 
 ---
