@@ -1,14 +1,13 @@
-<div align="center">
+<div align="left">
 
-# $\color{#00FF66}{\textbf{\texttt{Josiah Siachua}}}$
-### $\color{#00FF66}{\textbf{\texttt{Full-Stack Software Developer}}}$
-$\color{#00FF66}{\texttt{Java • Spring Boot • Angular • MySQL • Docker • REST APIs}}$
-
-<br/><br/>
-
-<a href="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=19&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=Full-Stack+Software+Developer;Java+%2B+Spring+Boot+%2B+Angular;Building+Production-Ready+Web+Applications;Relational+Databases+%26+RESTful+APIs">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=19&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=Full-Stack+Software+Developer;Java+%2B+Spring+Boot+%2B+Angular;Building+Production-Ready+Web+Applications;Relational+Databases+%26+RESTful+APIs" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=700&size=32&duration=4000&pause=1000&color=00FF66&center=false&vCenter=false&multiline=true&width=750&height=85&lines=JOSIAH+SIACHUA;SOFTWARE+ENGINEER_" alt="JOSIAH SIACHUA - SOFTWARE ENGINEER" />
 </a>
+
+> **Full-Stack Developer** building scalable applications with **Java, Spring Boot, and Angular**.<br/>
+> Transforming manual operational workflows into robust, automated, production-ready software systems.
+
+`Java` • `Spring Boot` • `Angular` • `MySQL` • `Docker` • `REST APIs`
 
 </div>
 
