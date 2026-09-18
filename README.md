@@ -4,10 +4,18 @@
   <img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=700&size=32&duration=4000&pause=1000&color=00FF66&center=false&vCenter=false&multiline=true&width=750&height=85&lines=JOSIAH+SIACHUA;SOFTWARE+ENGINEER_" alt="JOSIAH SIACHUA - SOFTWARE ENGINEER" />
 </a>
 
-> **Full-Stack Developer** building scalable applications with **Java, Spring Boot, and Angular**.<br/>
-> Transforming manual operational workflows into robust, automated, production-ready software systems.
+<br/>
 
-`Java` • `Spring Boot` • `Angular` • `MySQL` • `Docker` • `REST APIs`
+> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=500&size=15&duration=4000&pause=1000&color=00FF66&center=false&vCenter=false&multiline=true&width=800&height=55&lines=Full-Stack+Developer+building+scalable+applications+with+Java,+Spring+Boot,+and+Angular.;Transforming+manual+operational+workflows+into+robust,+automated+software+systems." alt="Bio" /></a>
+
+<p>
+  <img src="https://img.shields.io/badge/Java-00FF66?style=flat-square&logo=java&logoColor=000000" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-00FF66?style=flat-square&logo=springboot&logoColor=000000" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Angular-00FF66?style=flat-square&logo=angular&logoColor=000000" alt="Angular" />
+  <img src="https://img.shields.io/badge/MySQL-00FF66?style=flat-square&logo=mysql&logoColor=000000" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Docker-00FF66?style=flat-square&logo=docker&logoColor=000000" alt="Docker" />
+  <img src="https://img.shields.io/badge/REST_APIs-00FF66?style=flat-square&logoColor=000000" alt="REST APIs" />
+</p>
 
 </div>
 
