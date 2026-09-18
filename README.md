@@ -43,23 +43,23 @@ I am a **Software Engineer** specializing in full-stack web application developm
 <table>
   <tr>
     <td width="100%">
-      <h3>🏸 Courtside Cebu — Management & Court Booking Platform</h3>
-      <p><em>A custom full-stack web application engineered to automate court bookings, prevent scheduling conflicts, and streamline financial operations.</em></p>
+      <h3>🏟️ TK Sport Center — Sports Facility Management Platform</h3>
+      <p><em>A custom full-stack web application engineered to automate court bookings, eliminate scheduling conflicts, and streamline financial operations.</em></p>
       <ul>
         <li><b>Problem Solved:</b> Replaced double-booked paper logs and manual spreadsheets with real-time court availability and instant reservation management.</li>
         <li><b>Key Capabilities:</b> Automated customer payment receipt generation, real-time daily expense logging, and revenue analytics.</li>
-        <li><b>Tech Stack:</b> <code>Java</code> • <code>Spring Boot</code> • <code>Angular</code> • <code>MySQL</code> • <code>REST APIs</code> • <code>Cloudflare Storage</code></li>
+        <li><b>Tech Stack:</b> <code>Java</code> • <code>Spring Boot</code> • <code>Angular</code> • <code>MySQL</code> • <code>Docker</code> • <code>Cloudflare Storage</code></li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="100%">
-      <h3>🏟️ TK Sport Center — Facility Management System</h3>
-      <p><em>A full-stack sports facility platform designed to manage court schedules, venue operations, and financial transactions.</em></p>
+      <h3>🏸 Courtside Cebu — Court Booking & Management Platform</h3>
+      <p><em>A full-stack court booking and commerce platform designed to manage customer reservations, open play sessions, and merchandise sales.</em></p>
       <ul>
-        <li><b>Problem Solved:</b> Automated venue utilization, eliminated manual calculation errors, and centralized multi-court booking records.</li>
-        <li><b>Key Capabilities:</b> Real-time scheduling, transaction records, inventory tracking, and daily financial reporting.</li>
-        <li><b>Tech Stack:</b> <code>Java</code> • <code>Spring Boot</code> • <code>Angular</code> • <code>MySQL</code> • <code>Docker</code> • <code>Google Cloud (GCP)</code></li>
+        <li><b>Problem Solved:</b> Centralized customer scheduling, automated open-play slot management, and streamlined product inventory tracking.</li>
+        <li><b>Key Capabilities:</b> Real-time court reservations, merchant store with image uploads, customer sales tracking, and admin dashboard.</li>
+        <li><b>Tech Stack:</b> <code>Java</code> • <code>Spring Boot</code> • <code>Angular</code> • <code>MySQL</code> • <code>REST APIs</code> • <code>Google Cloud Storage (GCS)</code></li>
       </ul>
     </td>
   </tr>
