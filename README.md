@@ -1,13 +1,13 @@
 <div align="center">
 
-# $\color{#00FF66}{\textsf{Josiah Siachua}}$
-### $\color{#00FF66}{\textsf{Full-Stack Software Developer}}$
+# $\color{#00FF66}{\textbf{\texttt{Josiah Siachua}}}$
+### $\color{#00FF66}{\textbf{\texttt{Full-Stack Software Developer}}}$
 $\color{#00FF66}{\texttt{Java • Spring Boot • Angular • MySQL • Docker • REST APIs}}$
 
 <br/><br/>
 
-<a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=620&lines=Full-Stack+Software+Developer;Java+%2B+Spring+Boot+%2B+Angular;Building+Production-Ready+Web+Applications;Relational+Databases+%26+RESTful+APIs">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=620&lines=Full-Stack+Software+Developer;Java+%2B+Spring+Boot+%2B+Angular;Building+Production-Ready+Web+Applications;Relational+Databases+%26+RESTful+APIs" alt="Typing SVG" />
+<a href="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=19&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=Full-Stack+Software+Developer;Java+%2B+Spring+Boot+%2B+Angular;Building+Production-Ready+Web+Applications;Relational+Databases+%26+RESTful+APIs">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=19&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=Full-Stack+Software+Developer;Java+%2B+Spring+Boot+%2B+Angular;Building+Production-Ready+Web+Applications;Relational+Databases+%26+RESTful+APIs" alt="Typing SVG" />
 </a>
 
 </div>
